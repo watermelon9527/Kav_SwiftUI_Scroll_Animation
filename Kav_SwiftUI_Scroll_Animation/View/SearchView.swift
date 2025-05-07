@@ -1,5 +1,5 @@
 //
-//  ContentView.swift
+//  Home.swift
 //  Kav_SwiftUI_Scroll_Animation
 //
 //  Created by Neil Chan on 2025/5/7.
@@ -7,9 +7,9 @@
 
 import SwiftUI
 
-struct ContentView: View {
+struct SearchView: View {
     var body: some View {
-        BookCardView(book: books[0])
+        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
     }
 }
 
